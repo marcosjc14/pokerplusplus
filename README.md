@@ -11,7 +11,6 @@ Next, change into the pokerplusplus folder, and open your editor there.
 
 Code editor suggestion: Visual Studio Code (VSCode)  
 If you are running a mac you'll need to install the shortcut, but on PC, you should be able to just type  
-
 ```code .```  
 
 in the pokerplusplus folder and it will open up the entire project folder in VS Code.  
