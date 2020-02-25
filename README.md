@@ -1,4 +1,4 @@
-# pokerplusplus
+# poker++
 Spring 2020 Software Engineering Group Project
 
 First, make sure you're in the directory you want to clone the folder into in command line.
