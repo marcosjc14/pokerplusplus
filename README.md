@@ -25,7 +25,7 @@ When you successfully complete a change:
 ```git add -A```
 
 2. Commit changes, and add a message. Make the message brief but concise so you remember what it does.
-```git commit -m "Here is your message explaining what the changes are."
+```git commit -m "Here is your message explaining what the changes are."```
 
 3. Push your changes to your branch.
 ```git push origin name-of-new-branch```
