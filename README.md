@@ -9,7 +9,7 @@ Then type:
 Next, change into the pokerplusplus folder, and open your editor there.  
 ```cd pokerplusplus```  
 
-Code editor suggestion: Visual Studio Code (VSCode)  
+Code editor suggestion: Visual Studio Code (VSCode): https://code.visualstudio.com/  
 If you are running a mac you'll need to install the shortcut, but on PC, you should be able to just type  
 ```code .```  
 
