@@ -34,3 +34,14 @@ When you successfully complete a change:
 ```git pull origin name-of-new-branch```
 
 ***Be careful about working on the same features as other people to avoid merge conflicts. If you have one, make sure to review it so you don't override anyone else's work. Work on your own branches that you create.***
+
+# Bud Davis' ReadMe for the chat server:
+Code samples for CSE3310 Spring 2020
+
+You must have the boost development libs installed.
+
+yum install boost-devel
+
+or
+
+sudo apt install libboost-dev
